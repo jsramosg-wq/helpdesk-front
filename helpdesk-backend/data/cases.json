@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "titulo": "Problema con el inicio de sesi\u00f3n",
+    "descripcion": "El usuario reporta que no puede iniciar sesi\u00f3n en el sistema corporativo.",
+    "categoria": "Acceso",
+    "estado": "abierto",
+    "creadoPor": "usuario_externo",
+    "asignadoA": "soporte_nivel_1",
+    "fechaCreacion": "2025-01-10T14:35:00Z",
+    "fechaActualizacion": "2025-01-10T14:35:00Z",
+    "historial": [
+      {
+        "fecha": "2025-01-10T14:35:00Z",
+        "accion": "Caso creado por usuario externo"
+      }
+    ]
+  }
+]
